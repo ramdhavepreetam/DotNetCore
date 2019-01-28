@@ -1,0 +1,9 @@
+D:\Preetam\Study\Core\Code\Demo1\OdeFoodFactory\OdeFoodFactory.Core\bin\Debug\netcoreapp2.1\OdeFoodFactory.Core.deps.json
+D:\Preetam\Study\Core\Code\Demo1\OdeFoodFactory\OdeFoodFactory.Core\bin\Debug\netcoreapp2.1\OdeFoodFactory.Core.dll
+D:\Preetam\Study\Core\Code\Demo1\OdeFoodFactory\OdeFoodFactory.Core\bin\Debug\netcoreapp2.1\OdeFoodFactory.Core.pdb
+D:\Preetam\Study\Core\Code\Demo1\OdeFoodFactory\OdeFoodFactory.Core\obj\Debug\netcoreapp2.1\OdeFoodFactory.Core.csprojAssemblyReference.cache
+D:\Preetam\Study\Core\Code\Demo1\OdeFoodFactory\OdeFoodFactory.Core\obj\Debug\netcoreapp2.1\OdeFoodFactory.Core.csproj.CoreCompileInputs.cache
+D:\Preetam\Study\Core\Code\Demo1\OdeFoodFactory\OdeFoodFactory.Core\obj\Debug\netcoreapp2.1\OdeFoodFactory.Core.AssemblyInfoInputs.cache
+D:\Preetam\Study\Core\Code\Demo1\OdeFoodFactory\OdeFoodFactory.Core\obj\Debug\netcoreapp2.1\OdeFoodFactory.Core.AssemblyInfo.cs
+D:\Preetam\Study\Core\Code\Demo1\OdeFoodFactory\OdeFoodFactory.Core\obj\Debug\netcoreapp2.1\OdeFoodFactory.Core.dll
+D:\Preetam\Study\Core\Code\Demo1\OdeFoodFactory\OdeFoodFactory.Core\obj\Debug\netcoreapp2.1\OdeFoodFactory.Core.pdb
