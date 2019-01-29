@@ -4620,6 +4620,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.1.0",
+          "Microsoft.EntityFrameworkCore.Design": "2.1.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.0",
           "OdeFoodFactory.Core": "1.0.0"
         },
         "compile": {
@@ -12572,11 +12575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Preetam\\Study\\Core\\Code\\Demo1\\OdeFoodFactory\\OdeFoodFactory\\OdeFoodFactory.csproj",
+      "projectUniqueName": "D:\\Preetam\\Study\\Core\\Code\\DotNetCore\\OdeFoodFactory\\OdeFoodFactory\\OdeFoodFactory.csproj",
       "projectName": "OdeFoodFactory",
-      "projectPath": "D:\\Preetam\\Study\\Core\\Code\\Demo1\\OdeFoodFactory\\OdeFoodFactory\\OdeFoodFactory.csproj",
+      "projectPath": "D:\\Preetam\\Study\\Core\\Code\\DotNetCore\\OdeFoodFactory\\OdeFoodFactory\\OdeFoodFactory.csproj",
       "packagesPath": "C:\\Users\\Preetamr\\.nuget\\packages\\",
-      "outputPath": "D:\\Preetam\\Study\\Core\\Code\\Demo1\\OdeFoodFactory\\OdeFoodFactory\\obj\\",
+      "outputPath": "D:\\Preetam\\Study\\Core\\Code\\DotNetCore\\OdeFoodFactory\\OdeFoodFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12595,8 +12598,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Preetam\\Study\\Core\\Code\\Demo1\\OdeFoodFactory\\OdeFood.Data\\OdeFood.Data.csproj": {
-              "projectPath": "D:\\Preetam\\Study\\Core\\Code\\Demo1\\OdeFoodFactory\\OdeFood.Data\\OdeFood.Data.csproj"
+            "D:\\Preetam\\Study\\Core\\Code\\DotNetCore\\OdeFoodFactory\\OdeFood.Data\\OdeFood.Data.csproj": {
+              "projectPath": "D:\\Preetam\\Study\\Core\\Code\\DotNetCore\\OdeFoodFactory\\OdeFood.Data\\OdeFood.Data.csproj"
             }
           }
         }

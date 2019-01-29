@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Preetam\\Study\\Core\\Code\\Demo1\\OdeFoodFactory\\OdeFoodFactory.Core\\OdeFoodFactory.Core.csproj",
+      "projectUniqueName": "D:\\Preetam\\Study\\Core\\Code\\DotNetCore\\OdeFoodFactory\\OdeFoodFactory.Core\\OdeFoodFactory.Core.csproj",
       "projectName": "OdeFoodFactory.Core",
-      "projectPath": "D:\\Preetam\\Study\\Core\\Code\\Demo1\\OdeFoodFactory\\OdeFoodFactory.Core\\OdeFoodFactory.Core.csproj",
+      "projectPath": "D:\\Preetam\\Study\\Core\\Code\\DotNetCore\\OdeFoodFactory\\OdeFoodFactory.Core\\OdeFoodFactory.Core.csproj",
       "packagesPath": "C:\\Users\\Preetamr\\.nuget\\packages\\",
-      "outputPath": "D:\\Preetam\\Study\\Core\\Code\\Demo1\\OdeFoodFactory\\OdeFoodFactory.Core\\obj\\",
+      "outputPath": "D:\\Preetam\\Study\\Core\\Code\\DotNetCore\\OdeFoodFactory\\OdeFoodFactory.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

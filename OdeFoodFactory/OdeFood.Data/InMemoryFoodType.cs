@@ -5,7 +5,7 @@ using System.Text;
 using System.Linq;
 namespace OdeFood.Data
 {
- 
+
 
     public class InMemoryFoodType : IFoodType
     {
@@ -24,12 +24,41 @@ namespace OdeFood.Data
             };
         }
 
+        public FoodItems Add(FoodItems newFoodItems)
+        {
+            this.fooItems.Add(newFoodItems);
+            newFoodItems.Id = this.fooItems.Max(r => r.Id) + 1;
+            return newFoodItems;
+        }
+
+        public int Commit()
+        {
+            return 0;
+        }
+
+        public FoodItems GetById(int Id)
+        {
+            return this.fooItems.SingleOrDefault(r => r.Id == Id);
+        }
+
         public IEnumerable<FoodItems> GetByName(string name = null)
         {
             return from f in fooItems
                    where string.IsNullOrEmpty(name) || f.Name.StartsWith(name)
                    orderby f.Name
                    select f;
+        }
+
+        public FoodItems Update(FoodItems updateFoodItems)
+        {
+             var fooditem = this.fooItems.SingleOrDefault(r => r.Id == updateFoodItems.Id);
+            if (fooditem!= null)
+            {
+                fooditem.Name = updateFoodItems.Name;
+                fooditem.SpiceLevel = updateFoodItems.SpiceLevel;
+                fooditem.FoodType = updateFoodItems.FoodType;
+            }
+            return fooditem;
         }
     }
 }

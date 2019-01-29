@@ -10,3 +10,17 @@ D:\Preetam\Study\Core\Code\Demo1\OdeFoodFactory\OdeFood.Data\obj\Debug\netcoreap
 D:\Preetam\Study\Core\Code\Demo1\OdeFoodFactory\OdeFood.Data\obj\Debug\netcoreapp2.1\OdeFood.Data.csproj.CopyComplete
 D:\Preetam\Study\Core\Code\Demo1\OdeFoodFactory\OdeFood.Data\obj\Debug\netcoreapp2.1\OdeFood.Data.dll
 D:\Preetam\Study\Core\Code\Demo1\OdeFoodFactory\OdeFood.Data\obj\Debug\netcoreapp2.1\OdeFood.Data.pdb
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\bin\Debug\netcoreapp2.1\OdeFood.Data.deps.json
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\bin\Debug\netcoreapp2.1\OdeFood.Data.dll
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\bin\Debug\netcoreapp2.1\OdeFood.Data.pdb
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\bin\Debug\netcoreapp2.1\OdeFoodFactory.Core.dll
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\bin\Debug\netcoreapp2.1\OdeFoodFactory.Core.pdb
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\obj\Debug\netcoreapp2.1\OdeFood.Data.csprojAssemblyReference.cache
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\obj\Debug\netcoreapp2.1\OdeFood.Data.csproj.CoreCompileInputs.cache
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\obj\Debug\netcoreapp2.1\OdeFood.Data.AssemblyInfoInputs.cache
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\obj\Debug\netcoreapp2.1\OdeFood.Data.AssemblyInfo.cs
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\obj\Debug\netcoreapp2.1\OdeFood.Data.csproj.CopyComplete
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\obj\Debug\netcoreapp2.1\OdeFood.Data.dll
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\obj\Debug\netcoreapp2.1\OdeFood.Data.pdb
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\bin\Debug\netcoreapp2.1\OdeFood.Data.runtimeconfig.json
+D:\Preetam\Study\Core\Code\DotNetCore\OdeFoodFactory\OdeFood.Data\bin\Debug\netcoreapp2.1\OdeFood.Data.runtimeconfig.dev.json
